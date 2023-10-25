@@ -1,0 +1,6 @@
+c:\users\muaaz\documents\visual studio 2013\Projects\Mid Lab Q2\Mid Lab Q2\bin\Debug\Mid Lab Q2.exe.config
+c:\users\muaaz\documents\visual studio 2013\Projects\Mid Lab Q2\Mid Lab Q2\bin\Debug\Mid Lab Q2.exe
+c:\users\muaaz\documents\visual studio 2013\Projects\Mid Lab Q2\Mid Lab Q2\bin\Debug\Mid Lab Q2.pdb
+c:\users\muaaz\documents\visual studio 2013\Projects\Mid Lab Q2\Mid Lab Q2\obj\Debug\Mid Lab Q2.csprojResolveAssemblyReference.cache
+c:\users\muaaz\documents\visual studio 2013\Projects\Mid Lab Q2\Mid Lab Q2\obj\Debug\Mid Lab Q2.exe
+c:\users\muaaz\documents\visual studio 2013\Projects\Mid Lab Q2\Mid Lab Q2\obj\Debug\Mid Lab Q2.pdb

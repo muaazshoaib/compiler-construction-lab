@@ -1,0 +1,9 @@
+c:\users\muaaz\documents\visual studio 2013\Projects\Mid Lab Q3\Mid Lab Q3\bin\Debug\Mid Lab Q3.exe.config
+c:\users\muaaz\documents\visual studio 2013\Projects\Mid Lab Q3\Mid Lab Q3\bin\Debug\Mid Lab Q3.exe
+c:\users\muaaz\documents\visual studio 2013\Projects\Mid Lab Q3\Mid Lab Q3\bin\Debug\Mid Lab Q3.pdb
+c:\users\muaaz\documents\visual studio 2013\Projects\Mid Lab Q3\Mid Lab Q3\obj\Debug\Mid Lab Q3.csprojResolveAssemblyReference.cache
+c:\users\muaaz\documents\visual studio 2013\Projects\Mid Lab Q3\Mid Lab Q3\obj\Debug\Mid_Lab_Q3.Form1.resources
+c:\users\muaaz\documents\visual studio 2013\Projects\Mid Lab Q3\Mid Lab Q3\obj\Debug\Mid_Lab_Q3.Properties.Resources.resources
+c:\users\muaaz\documents\visual studio 2013\Projects\Mid Lab Q3\Mid Lab Q3\obj\Debug\Mid Lab Q3.csproj.GenerateResource.Cache
+c:\users\muaaz\documents\visual studio 2013\Projects\Mid Lab Q3\Mid Lab Q3\obj\Debug\Mid Lab Q3.exe
+c:\users\muaaz\documents\visual studio 2013\Projects\Mid Lab Q3\Mid Lab Q3\obj\Debug\Mid Lab Q3.pdb
